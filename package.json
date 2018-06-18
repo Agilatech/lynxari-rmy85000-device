@@ -1,0 +1,22 @@
+{
+  "name": "@agilatech/lynxari-rmy85000-device",
+  "version": "1.0.1",
+  "description": "RMY85000 Ultrasonic Anemometer device driver for use in the Agilatech Lynxari system",
+  "main": "rmy85000-scout.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agilatech/lynxari-rmy85000-device"
+  },
+  "keywords": [
+    "sensor",
+    "Wind Speed",
+    "Wind Direction",
+    "Ultrasonic Anemometer",
+    "RMY 85000"
+  ],
+  "author": "Agilatech <scott@agilatech.com> (http://agilatech.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@agilatech/rmy85000": "*"
+  }
+}

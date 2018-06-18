@@ -1,0 +1,12 @@
+{
+    "streamPeriod": 60000,
+    "devicePoll": 1000,
+    "deltaPercent": 0.5,
+    "file":"/dev/ttyS0",
+    "speed_range":40,
+    "direction_range":360,
+    "avg_speed_range":40,
+    "avg_direction_range":360,
+    "gust_speed_range":40,
+    "gust_direction_range":360
+}
